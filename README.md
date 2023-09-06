@@ -19,13 +19,13 @@
 
 Here are some of the projects I've worked on:
 
-1. **Project Name 1**
-   - Description: Briefly describe the project.
-   - GitHub Repository: [Link to the repository]
+1. **WhatsApp Status Saver Android App**
+   - Description: A very fast WhatsApp status saver. 
+   - GitHub Repository: [https://github.com/debayo1/wa-statussaver.git]
 
-2. **Project Name 2**
-   - Description: Briefly describe the project.
-   - GitHub Repository: [Link to the repository]
+2. **Next Investment Android App**
+   - Description: A UI on how investment app could be... supporting both theme (Day/Night). Smoth interface.
+   - GitHub Repository: [https://github.com/debayo1/next_investment.git]
 
 ## Contact
 
@@ -33,8 +33,8 @@ Feel free to reach out to me through email or phone for collaboration or any inq
 
 ## Let's Connect
 
-- [GitHub](https://github.com/yourgithubusername)
+- [GitHub](https://github.com/debayo1)
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Twitter](https://twitter.com/i_amdebayo)
 
 Thanks for visiting my GitHub profile! 😊
